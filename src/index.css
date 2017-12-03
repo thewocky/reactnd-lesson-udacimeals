@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.btn-remove {
+	margin-left: 10px;
+	background-color: #333;
+	width: 16px;
+	height: 16px;
+	border-radius: 50%;
+	color: white;
+	font-size: 60%;
+	padding: 3px;
+	cursor: pointer;
+}
+
+.btn-remove:hover {
+	background-color: #999;
+}
